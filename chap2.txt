@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 forgoten
+=======
+it is the worst thing 222222
+>>>>>>> test

@@ -1,1 +1,6 @@
-for continue 
+<<<<<<< HEAD
+
+=======
+its not so bad 
+
+>>>>>>> test
